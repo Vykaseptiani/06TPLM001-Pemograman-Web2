@@ -39,7 +39,7 @@ td{
 	?>
 	<div class="kalkulator">
 		<h3 class="judul" align="center">Buatlah tampilan dibawah ini!</h3>
-		<form method="post" action="latihan3.php">			
+		<form method="post" action="pert2_latihan3.php">			
 		<table align="center">
 		<tr>
 		<td><h2>Nilai I</h2></td>
